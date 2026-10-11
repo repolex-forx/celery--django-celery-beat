@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "django-celery-beat",
+  "versions": [
+    {
+      "commit": "dfe16f2edc4108fef9308dd9571f590b7febe313",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:05:11.695020+00:00"
+    }
+  ]
+}
