@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/celery/django-celery-beat/commit/dfe16f2edc4108fef9308dd9571f590b7febe313",
       "git:hexsha": "dfe16f2edc4108fef9308dd9571f590b7febe313",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T06:05:11.694427+00:00"
     },
     {
       "@id": "https://repolex.ai/r/celery/django-celery-beat/commit/2c76b4cca59a552a50f7495d6269cc13e0f5d87b",
